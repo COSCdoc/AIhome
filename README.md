@@ -46,7 +46,7 @@ Supported workloads:
 - Scientific Computing
 - Data Analytics
 - Large Language Models (LLMs)
-- High-Performance Computing
+  
 
 ---
 
@@ -112,7 +112,7 @@ ssh username@aihome.bmt.lamar.edu
 or
 
 ```bash
-ssh username@140.158.131.8
+ssh username@140.158.131.1
 ```
 
 Example:
