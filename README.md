@@ -1,7 +1,7 @@
 # AIHome Linux Server User Guide
 
 **Computer Science Department Remote Computing Resources**  
-**Updated: October 2025**
+**Updated: September 2026**
 
 ---
 
