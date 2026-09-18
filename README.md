@@ -155,7 +155,7 @@ ssh username@aihome.bmt.lamar.edu
 Activate Python environment:
 
 ```bash
-conda activate shared_env
+conda activate AI
 ```
 
 Launch JupyterHub:
