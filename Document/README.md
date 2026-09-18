@@ -1,14 +1,12 @@
 # User Guide for GPU Servers in Computer Science Department
-# CS Department GPU Servers Access Guide
 
-**Author:** Frank Sun  
-**Date:** October 15, 2025
+**Date:** September 18, 2026
 
 ---
 
 # GPU Infrastructure
 
-The Computer Science Department currently hosts the following GPU and compute servers.
+The Computer Science Department currently hosts the following GPU and big memory servers.
 
 ## 1. Dell PowerEdge R750XA GPU Server (1 Unit)
 
@@ -72,7 +70,7 @@ After connecting to the VPN, SSH to one of the following systems.
 
 | Hostname | IP Address |
 |-----------|------------|
-| aihome.bmt.lamar.edu | 140.158.131.8 |
+| aihome.bmt.lamar.edu | 140.158.131.1 |
 | russell.bmt.lamar.edu | 140.158.131.5 |
 | gpu2.bmt.lamar.edu | 140.158.131.2 |
 | bigmem.bmt.lamar.edu | 140.158.131.133 |
@@ -86,7 +84,7 @@ ssh username@aihome.bmt.lamar.edu
 or
 
 ```bash
-ssh username@140.158.131.8
+ssh username@140.158.131.1
 ```
 
 ---
@@ -112,13 +110,13 @@ Log out and log back in if required.
 Run this command every time you log in:
 
 ```bash
-conda activate shared_env
+conda activate AI
 ```
 
 A successful activation will display:
 
 ```text
-(shared_env)
+(AI)
 ```
 
 in front of your shell prompt.
@@ -189,7 +187,7 @@ This provides browser-based access to Jupyter Notebooks.
 ### AIHome
 
 - http://aihome.bmt.lamar.edu:8000
-- http://140.158.131.8:8000
+- http://140.158.131.1:8000
 
 ### Russell
 
