@@ -121,7 +121,7 @@ Example:
 ssh jsmith@aihome.bmt.lamar.edu
 ```
 
-## Warning:  <mark>If you cursor does NOT showed up. You just use Ctrl + C to continue</mark>  
+## ⚠️ Warning:  <mark>If you cursor does NOT showed up. You just use Ctrl + C to continue</mark>  
 
 
 
