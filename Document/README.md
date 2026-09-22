@@ -4,8 +4,8 @@
 
 ---
 
-## [AIHOME GPU Server User Gudie](../AIhome/README.md)
-## [GPU Server Guide](./Document/README.md)
+## [AIHOME GPU Server User Gudie](../README.md)
+## [GPU Server Guide](./README.md)
 
 # GPU Infrastructure
 
