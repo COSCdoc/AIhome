@@ -4,6 +4,9 @@
 
 ---
 
+## [AIHOME GPU Server User Gudie] (../AIhome/README.md)
+## [GPU Server Guide] (./Document/README.md)
+
 # GPU Infrastructure
 
 The Computer Science Department currently hosts the following GPU and big memory servers.
